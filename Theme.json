@@ -1,0 +1,251 @@
+{
+  "name": "Makima Dark Theme",
+  "description": "An elegant dark theme inspired by Makima's palette",
+  "authors": [
+    {
+      "name": "wiwiichan",
+      "id": "725075745671479296"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": [
+      "#121212"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2c2c2c"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2c2c2c"
+    ],
+    "DIVIDER_STRONG": [
+      "#303030"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#242424"
+    ],
+    "BORDER_SUBTLE": [
+      "#303030"
+    ],
+    "SPINE_DEFAULT": [
+      "#1a1a1a"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#2c2c2c"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#202020"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#1a1a1a"
+    ],
+    "STATUS_DANGER": [
+      "#a3443e"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#a3443e"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_DND": [
+      "#a3443e"
+    ],
+    "STATUS_IDLE": [
+      "#eab446"
+    ],
+    "STATUS_OFFLINE": [
+      "#4a4a4a"
+    ],
+    "STATUS_ONLINE": [
+      "#48bc46"
+    ],
+    "STATUS_POSITIVE": [
+      "#48bc46"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#48bc46"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#FFFFFF"
+    ],
+    "STATUS_SPEAKING": [
+      "#48bc46"
+    ],
+    "STATUS_WARNING": [
+      "#eab446"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#eab446"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#121212"
+    ],
+    "TEXT_BRAND": [
+      "#e4e4e1"
+    ],
+    "TEXT_DANGER": [
+      "#a3443e"
+    ],
+    "TEXT_LINK": [
+      "#a3443e"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#7a3531"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#8a8a8a"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#b0b0b0"
+    ],
+    "TEXT_MUTED": [
+      "#8a8a8a"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#b0b0b0"
+    ],
+    "TEXT_NORMAL": [
+      "#e4e4e1"
+    ],
+    "TEXT_POSITIVE": [
+      "#48bc46"
+    ],
+    "TEXT_PRIMARY": [
+      "#ffffff"
+    ],
+    "TEXT_SECONDARY": [
+      "#b0b0b0"
+    ],
+    "TEXT_WARNING": [
+      "#eab446"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#121212"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#303030"
+    ],
+    "TOAST_BG": [
+      "#1a1a1a"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#1a1a1a"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#121212"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#1a1a1a"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#121212"
+    ],
+    "WHITE": [
+      "#FFFFFF"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2c2c2c"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#121212"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#303030"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#242424"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#1a1a1a"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#121212"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#2c2c2c"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#4a4a4a"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#121212"
+    ],
+    "MENTION_BADGE": [
+      "#a3443e"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#a3443e"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+    "BRAND_260": "#e4e4e1",
+    "BRAND_360": "#e4e4e1",
+    "BRAND_560": "#1a1a1a",
+    "BRAND_500": "#2c2c2c",
+    "ORANGE_260": "#eab446",
+    "ORANGE_300": "#eab446",
+    "ORANGE_330": "#eab446",
+    "ORANGE_345": "#eab446",
+    "ORANGE_360": "#eab446",
+    "ORANGE_400": "#eab446",
+    "ORANGE_430": "#eab446",
+    "ORANGE_460": "#eab446",
+    "ORANGE_500": "#eab446",
+    "ORANGE_530": "#eab446",
+    "ORANGE_560": "#eab446",
+    "ORANGE_600": "#eab446",
+    "ORANGE_630": "#eab446",
+    "ORANGE_660": "#eab446",
+    "ORANGE_700": "#eab446",
+    "YELLOW_260": "#eab446",
+    "YELLOW_300": "#eab446",
+    "YELLOW_330": "#eab446",
+    "YELLOW_345": "#eab446",
+    "YELLOW_360": "#eab446",
+    "YELLOW_400": "#eab446",
+    "YELLOW_430": "#eab446",
+    "YELLOW_460": "#eab446",
+    "YELLOW_500": "#eab446",
+    "YELLOW_530": "#eab446",
+    "YELLOW_560": "#eab446",
+    "YELLOW_600": "#eab446",
+    "YELLOW_630": "#eab446",
+    "YELLOW_660": "#eab446",
+    "YELLOW_700": "#eab446",
+    "RED_430": "#a3443e",
+    "PLUM_14": "#303030",
+    "PRIMARY_800": "#303030",
+    "PLUM_1": "#e4e4e1",
+    "PLUM_22": "#121212",
+    "PRIMARY_660": "#1a1a1a",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_560": "#2c2c2c",
+    "PRIMARY_600": "#202020",
+    "PRIMARY_630": "#1a1a1a",
+    "PLUM_15": "#2c2c2c",
+    "PLUM_17": "#1a1a1a",
+    "PLUM_18": "#1a1a1a",
+    "PLUM_19": "#121212",
+    "PLUM_20": "#121212",
+    "PLUM_23": "#121212",
+    "PLUM_24": "#121212"
+  },
+  "background": {
+    "url": "https://i.imgur.com/kSCAMLv.jpeg",
+    "blur": 0.5,
+    "alpha": 0.35,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2026-04-15",
+  "source": "local"
+}
