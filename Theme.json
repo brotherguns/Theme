@@ -236,8 +236,8 @@
   },
   "background": {
     "url": "https://i.imgur.com/HkogUCH_d.webp",
-    "blur": 0.5,
-    "alpha": 0.35,
+    "blur": 0,
+    "alpha": 0,
     "size": "cover",
     "position": "center"
   },
